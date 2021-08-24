@@ -1,0 +1,13 @@
+C:\devops\dotnetcon\Praveen\bin\Debug\netcoreapp3.1\Praveen.exe
+C:\devops\dotnetcon\Praveen\bin\Debug\netcoreapp3.1\Praveen.deps.json
+C:\devops\dotnetcon\Praveen\bin\Debug\netcoreapp3.1\Praveen.runtimeconfig.json
+C:\devops\dotnetcon\Praveen\bin\Debug\netcoreapp3.1\Praveen.runtimeconfig.dev.json
+C:\devops\dotnetcon\Praveen\bin\Debug\netcoreapp3.1\Praveen.dll
+C:\devops\dotnetcon\Praveen\bin\Debug\netcoreapp3.1\Praveen.pdb
+C:\devops\dotnetcon\Praveen\obj\Debug\netcoreapp3.1\Praveen.csprojAssemblyReference.cache
+C:\devops\dotnetcon\Praveen\obj\Debug\netcoreapp3.1\Praveen.AssemblyInfoInputs.cache
+C:\devops\dotnetcon\Praveen\obj\Debug\netcoreapp3.1\Praveen.AssemblyInfo.cs
+C:\devops\dotnetcon\Praveen\obj\Debug\netcoreapp3.1\Praveen.csproj.CoreCompileInputs.cache
+C:\devops\dotnetcon\Praveen\obj\Debug\netcoreapp3.1\Praveen.dll
+C:\devops\dotnetcon\Praveen\obj\Debug\netcoreapp3.1\Praveen.pdb
+C:\devops\dotnetcon\Praveen\obj\Debug\netcoreapp3.1\Praveen.genruntimeconfig.cache
